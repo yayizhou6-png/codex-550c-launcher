@@ -1,0 +1,11 @@
+# Windows and editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Local test artifacts
+*.log
+*.tmp
+*.bak
